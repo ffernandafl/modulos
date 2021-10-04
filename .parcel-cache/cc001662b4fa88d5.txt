@@ -1,0 +1,8 @@
+7
+74C:\Users\ferak\Documents\bootcamp-cohorte-5\modulos\dist\index.6b9ca3e8.js132778359507167652 0
+56C:\Users\ferak\Documents\bootcamp-cohorte-5\modulos\dist132778359507207544 1
+66C:\Users\ferak\Documents\bootcamp-cohorte-5\modulos\operaciones.js132778359505791392 0
+62C:\Users\ferak\Documents\bootcamp-cohorte-5\modulos\index.html132778346695944319 0
+59C:\Users\ferak\Documents\bootcamp-cohorte-5\modulos\main.js132778357170798071 0
+78C:\Users\ferak\Documents\bootcamp-cohorte-5\modulos\dist\index.6b9ca3e8.js.map132778359507197589 0
+67C:\Users\ferak\Documents\bootcamp-cohorte-5\modulos\dist\index.html132778347518998835 0
